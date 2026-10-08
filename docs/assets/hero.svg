@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">lucide-icon-plus</title>
+  <desc id="heroDesc">Icon sheet on warm paper: lucide icon-plus wordmark, and six startup stroke icons drawn on a 24 grid.</desc>
+  <!--
+    Hero for jqu224/lucide-icon-plus. Icon sheet on a drafting mat.
+    Paints are solid colors and stroked paths only. No fragment references,
+    clip paths, filters, or masks. GitHub README loads this file through a
+    redirect to raw.githubusercontent.com; a fragment reference is resolved
+    against the README page and the browser drops the whole image.
+    HCT proxy (CIE L* at OKLab hue). Primary indigo 258, counter persimmon 16.
+      indigo    T87 #CEDBEE  T67 #70A4F3  T17 #0E2951
+      persimmon T87 #EED4D4  T67 #F4818A  T17 #4C181E
+    Wordmark and icon strokes use indigo T17. The plus uses persimmon L* 42 #A04650
+    (5.4:1 on the paper). Tone 67 indigo is a divider bar only.
+    Hero copy is English only.
+  -->
+  <rect width="1200" height="420" rx="28" fill="#F4F2EC"/>
+  <path fill="none" stroke="#0E2951" stroke-opacity="0.055" stroke-width="1" d="M48 36V384 M72 36V384 M96 36V384 M120 36V384 M144 36V384 M168 36V384 M192 36V384 M216 36V384 M240 36V384 M264 36V384 M288 36V384 M312 36V384 M336 36V384 M360 36V384 M384 36V384 M408 36V384 M432 36V384 M456 36V384 M480 36V384 M504 36V384 M528 36V384 M552 36V384 M576 36V384 M600 36V384 M624 36V384 M648 36V384 M672 36V384 M696 36V384 M720 36V384 M744 36V384 M768 36V384 M792 36V384 M816 36V384 M840 36V384 M864 36V384 M888 36V384 M912 36V384 M936 36V384 M960 36V384 M984 36V384 M1008 36V384 M1032 36V384 M1056 36V384 M1080 36V384 M1104 36V384 M1128 36V384 M1152 36V384 M36 48H1164 M36 72H1164 M36 96H1164 M36 120H1164 M36 144H1164 M36 168H1164 M36 192H1164 M36 216H1164 M36 240H1164 M36 264H1164 M36 288H1164 M36 312H1164 M36 336H1164 M36 360H1164 M36 384H1164"/>
+  <path d="M72 348 L600 72" fill="none" stroke="#0E2951" stroke-opacity="0.08"/>
+  <path d="M72 96 L420 348" fill="none" stroke="#0E2951" stroke-opacity="0.06"/>
+  <g fill="none" stroke="#0E2951" stroke-opacity="0.45">
+    <path d="M48 22H1152" stroke-opacity="0.22"/>
+    <path d="M48 14V22 M72 16V20 M96 16V20 M120 16V20 M144 16V20 M168 14V22 M192 16V20 M216 16V20 M240 16V20 M264 16V20 M288 14V22 M312 16V20 M336 16V20 M360 16V20 M384 16V20 M408 14V22 M432 16V20 M456 16V20 M480 16V20 M504 16V20 M528 14V22 M552 16V20 M576 16V20 M600 16V20 M624 16V20 M648 14V22 M672 16V20 M696 16V20 M720 16V20 M744 16V20 M768 14V22 M792 16V20 M816 16V20 M840 16V20 M864 16V20 M888 14V22 M912 16V20 M936 16V20 M960 16V20 M984 16V20 M1008 14V22 M1032 16V20 M1056 16V20 M1080 16V20 M1104 16V20 M1128 14V22 M1152 16V20"/>
+    <path d="M22 48V384" stroke-opacity="0.22"/>
+    <path d="M14 48H22 M16 72H20 M16 96H20 M16 120H20 M16 144H20 M14 168H22 M16 192H20 M16 216H20 M16 240H20 M16 264H20 M14 288H22 M16 312H20 M16 336H20 M16 360H20 M16 384H20"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="27.5" fill="none" stroke="#0E2951" stroke-opacity="0.3" stroke-width="1"/>
+
+  <text x="72" y="86" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="5" fill="#2A4B7D">PLUS SET</text>
+  <text x="68" y="178" font-family="'Helvetica Neue','Segoe UI',sans-serif" font-size="84" font-weight="800" letter-spacing="-2" fill="#0E2951">lucide</text>
+  <text x="68" y="262" font-family="'Helvetica Neue','Segoe UI',sans-serif" font-size="84" font-weight="800" letter-spacing="-2" fill="#0E2951">icon</text>
+  <text x="292" y="262" font-family="'Helvetica Neue','Segoe UI',sans-serif" font-size="84" font-weight="800" fill="#A04650">+</text>
+  <rect x="72" y="284" width="150" height="3" rx="1.5" fill="#0E2951"/>
+  <rect x="230" y="284" width="96" height="3" rx="1.5" fill="#70A4F3"/>
+  <rect x="334" y="284" width="150" height="3" rx="1.5" fill="#A04650"/>
+  <text x="72" y="316" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" fill="#2A4B7D">24 grid &#183; stroke 2 &#183; upstream left as-is</text>
+  <g>
+    <rect x="72" y="336" width="168" height="32" fill="none" stroke="#0E2951" stroke-width="1"/>
+    <rect x="75.5" y="339.5" width="161" height="25" fill="none" stroke="#0E2951" stroke-opacity="0.45" stroke-width="0.8"/>
+    <text x="156" y="357" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="4.5" fill="#0E2951">BY JQU224</text>
+  </g>
+
+  <rect x="636" y="36" width="516" height="348" rx="18" fill="#FFFDF8" stroke="#0E2951" stroke-opacity="0.4"/>
+  <text x="660" y="70" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2.4" fill="#0E2951">STARTUP SET</text>
+  <text x="1128" y="70" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="1.4" fill="#2A4B7D">24 &#215; 24</text>
+  <line x1="660" y1="82" x2="1128" y2="82" stroke="#E3DDD2"/>
+  <rect x="660" y="92" width="148" height="118" rx="10" fill="#F7F4EE" stroke="#E3DDD2"/><rect x="820" y="92" width="148" height="118" rx="10" fill="#F7F4EE" stroke="#E3DDD2"/><rect x="980" y="92" width="148" height="118" rx="10" fill="#F7F4EE" stroke="#E3DDD2"/><rect x="660" y="222" width="148" height="118" rx="10" fill="#F7F4EE" stroke="#E3DDD2"/><rect x="820" y="222" width="148" height="118" rx="10" fill="#F7F4EE" stroke="#E3DDD2"/><rect x="980" y="222" width="148" height="118" rx="10" fill="#F7F4EE" stroke="#E3DDD2"/>
+  <g transform="translate(705.8,106.0) scale(2.35)" fill="none" stroke="#0E2951" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="4" y1="20" x2="20" y2="20"/>
+      <line x1="7" y1="20" x2="7" y2="7"/>
+      <line x1="12" y1="20" x2="12" y2="11"/>
+      <line x1="17" y1="20" x2="17" y2="15"/>
+    </g><g transform="translate(865.8,106.0) scale(2.35)" fill="none" stroke="#0E2951" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="4" y1="7" x2="20" y2="7"/>
+      <line x1="4" y1="12" x2="15" y2="12"/>
+      <line x1="4" y1="17" x2="10" y2="17"/>
+    </g><g transform="translate(1025.8,106.0) scale(2.35)" fill="none" stroke="#0E2951" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 9h6l2-2h10v12H3z"/>
+      <rect x="10.5" y="12" width="6" height="4.5" rx="1"/>
+      <path d="M12 12v-1.2a1.5 1.5 0 0 1 3 0V12"/>
+    </g><g transform="translate(705.8,236.0) scale(2.35)" fill="none" stroke="#0E2951" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M6 3h8l4 4v14H6z"/>
+      <polyline points="14 3 14 7 18 7"/>
+      <line x1="9" y1="13" x2="15" y2="13"/>
+      <line x1="9" y1="17" x2="12" y2="17"/>
+    </g><g transform="translate(865.8,236.0) scale(2.35)" fill="none" stroke="#0E2951" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 5a7 7 0 1 0 4.95 2.05"/>
+      <line x1="12" y1="12" x2="12" y2="5"/>
+      <line x1="12" y1="12" x2="17" y2="7"/>
+    </g><g transform="translate(1025.8,236.0) scale(2.35)" fill="none" stroke="#0E2951" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3.5" y="4" width="17" height="11" rx="1.5"/>
+      <line x1="12" y1="15" x2="12" y2="19"/>
+      <line x1="8" y1="19" x2="16" y2="19"/>
+    </g>
+  <text x="734.0" y="196" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#2A4B7D">RUNWAY</text><text x="894.0" y="196" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#2A4B7D">CAP TABLE</text><text x="1054.0" y="196" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#2A4B7D">DATA ROOM</text><text x="734.0" y="326" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#2A4B7D">SAFE</text><text x="894.0" y="326" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#2A4B7D">OPTION POOL</text><text x="1054.0" y="326" text-anchor="middle" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#2A4B7D">DEMO DAY</text>
+  <circle cx="1132" cy="48" r="16" fill="#A04650"/>
+  <path d="M1132 40.5V55.5 M1124.5 48H1139.5" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,52 @@
+# Dependencies, build output, caches
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+.turbo/
+.cache/
+.eslintcache
+*.tsbuildinfo
+*.local
+*.tgz
+.test-output/
+
+# Secrets and local env. Examples stay tracked.
+.env
+.env.*
+!.env.example
+!.env*.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+credentials.json
+service-account*.json
+
+# Logs and OS junk
+*.log
+*.pid
+.DS_Store
+Thumbs.db
+
+# Editor scratch. Shared extension recommendations may ship.
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+
+# Local agent, MCP, and review artifacts. Never publish these.
+.impeccable/
+.shots/
+.zion-mcp/
+.zcode/
+
+# Private writing. Publish READMEs only.
+*.md
+!README.md
+!README.zh-CN.md
+reference/
